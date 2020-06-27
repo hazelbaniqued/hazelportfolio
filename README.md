@@ -1,6 +1,6 @@
 # Hazel's Website
 
 
-Only used 2 Web Languages:
+I only used 2 Web Languages:
 - HTML
 - CSS
